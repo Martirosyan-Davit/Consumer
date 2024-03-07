@@ -40,7 +40,7 @@ The application runs on port 8082.
 
 * **Kafka Topics**
 
-  The microservice listens to the Kafka topic named `user_Topic`. Ensure that the topic exists in your Kafka environment.
+  The microservice listens to the Kafka topic named `users`. Ensure that the topic exists in your Kafka environment.
 
   *! to check the availability of a topic, use this script*
 
